@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohith.R
 ================================================================================================================================
 
-Machine Learning and LLM agent developer
+Machine Learning | LLM agent developer | Web Development
 ----------------------------------------
 
 I am a third-year B.Tech student specializing in Artificial Intelligence and Data Science
