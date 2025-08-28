@@ -17,7 +17,7 @@ I am a third-year B.Tech student specializing in Artificial Intelligence and Dat
 - **Programming Languages:** C, C++, Python, Java, JavaScript  
 - **Web Development:** React.js, Node.js, HTML5, CSS  
 - **Database & APIs:** MySQL, RESTful APIs  
-- **AI & ML:** PyTorch, TensorFlow, LLM Agent Development  
+- **AI & ML:** PyTorch, TensorFlow, LLM Agent Development, Hugging face  
 - **Operating Systems:** Linux (System Administration, Shell Scripting, Package Management)
 
 <p align="left">
