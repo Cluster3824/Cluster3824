@@ -17,8 +17,9 @@ I am a third-year B.Tech student specializing in Artificial Intelligence and Dat
 - **Programming Languages:** C, C++, Python, Java, JavaScript  
 - **Web Development:** React.js, Node.js, HTML5, CSS  
 - **Database & APIs:** MySQL, RESTful APIs  
-- **AI & ML:** PyTorch, TensorFlow, LLM Agent Development, Hugging face  
+- **AI & ML:** PyTorch, TensorFlow, Machine Learning Algorithms
 - **Operating Systems:** Linux (System Administration, Shell Scripting, Package Management)
+- **LLM Agent:** Hugging Face, Unsloth, Model API Handling, Ollama, Gradi0, Langchain, Langgraph, Google ADK 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -34,7 +35,9 @@ I am a third-year B.Tech student specializing in Artificial Intelligence and Dat
 ### Projects
 
 - **Snake Game** – Developed a classic Snake game using C++ and the SFML library with smooth gameplay and responsive controls.  
-- **HSN Code LLM Agent** – Built an intelligent HSN Code Validation and Suggestion Agent using Google ADK, Ollama LLM (llama3.2), LiteLLM, and Pandas.  
+- **HSN Code LLM Agent** – Built an intelligent HSN Code Validation and Suggestion Agent using Google ADK, Ollama LLM (llama3.2), LiteLLM, and Pandas.
+- **PDF and CSV Reader** - Developed a File Reader that Help to Analyse and Gave the Require Information From it.
+- **Hybrid Research Agent** - The Hybrid Research Agent Chatbot is a smart assistant that combines the power of AI reasoning with real-time information from the web. Instead of relying only on what a model was trained on, this chatbot can pull in fresh results from Google Search, Reddit, and Wikipedia, then use an LLM to turn that information into clear, contextual answers. 
 
 ### Socials
 
@@ -43,11 +46,14 @@ I am a third-year B.Tech student specializing in Artificial Intelligence and Dat
 <a href="https://www.linkedin.com/in/rohith-r-795383297/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<a href="http://www.github.com/Cluster3824"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cluster3824&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
+<!-- Contribution Graph -->
+[![Cluster3824's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cluster3824&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/Cluster3824)
 
-<a href="https://github.com/Cluster3824"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" /></a>
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/Cluster3824)
+
 
 ---
 
