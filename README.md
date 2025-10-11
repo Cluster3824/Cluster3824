@@ -22,7 +22,7 @@ I am a third-year B.Tech student specializing in **Artificial Intelligence and D
 - **Web Development:** React.js, Node.js, HTML5, CSS  
 - **Database & APIs:** MySQL, RESTful APIs  
 - **AI & ML:** PyTorch, TensorFlow, Machine Learning Algorithms  
-- **Operating Systems:** Linux (System Administration, Shell Scripting, Package Management)  
+- **Operating Systems:** Linux (System Administration, Shell Scripting, Package Management) with one year of experience in Ubuntu and Arch Linux. 
 - **LLM Agent Development:** Hugging Face, Unsloth, Model API Handling, Ollama, Gradio, LangChain, LangGraph, Google ADK  
 
 <p align="center">
