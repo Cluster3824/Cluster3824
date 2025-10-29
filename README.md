@@ -66,10 +66,7 @@ I am a third-year B.Tech student specializing in **Artificial Intelligence and D
   <img src="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cluster3824&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
