@@ -25,7 +25,7 @@ I am a third-year B.Tech student specializing in **Artificial Intelligence and D
 - **Operating Systems:** Linux (System Administration, Shell Scripting, Package Management) with one year of experience in Ubuntu and Arch Linux. 
 - **LLM Agent Development:** Hugging Face, Unsloth, Model API Handling, Ollama, Gradio, LangChain, LangGraph, Google ADK
 - **Cloud Computing Basic:** Azure, AWS, Arch Linux, Ubuntu, Google Cloud
-- **Game Development Basic** C++, Unreal Engine, Unity, SFML 
+- **Game Development Basic:** C++, Unreal Engine, Unity, SFML 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,mysql,html,css,pytorch,tensorflow,linux,docker,git" />
@@ -38,7 +38,7 @@ I am a third-year B.Tech student specializing in **Artificial Intelligence and D
 -  **Arch Logs** – Advanced system log analyzer for Arch Linux with CLI and GUI interfaces.  
 -  **HSN Code LLM Agent** – AI-powered HSN Code Validation & Suggestion using **Google ADK, Ollama (llama3.2), LiteLLM, Pandas**  
 -  **Book Review and Rating Website** – A full-stack web application with React frontend and Spring Boot backend  
--  **Hybrid Research Agent** – Chatbot that fetches **real-time info** from Google, Reddit, and Wikipedia with LLM-powered reasoning  
+-  **Water-Borne Disease Prediction** – predicts water safety and the risk of water-borne diseases using machine learning  
 
 ---
 
