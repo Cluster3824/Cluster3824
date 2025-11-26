@@ -8,7 +8,7 @@ I am a third-year B.Tech student specializing in **Artificial Intelligence and D
 
 ### 🚀 About Me  
 
-* 🌍  Based in **Coimbatore**  
+* 🌍  Based in **Coimbatore Tamil Nadu**  
 * ✉️  Reach me at [rohith3824r1@gmail.com](mailto:rohith3824r1@gmail.com)  
 * 🧠  Currently learning **Machine Learning, Neural Networks, and Large Language Models (LLMs)**  
 * 🤝  Open to collaborating on **LLM agent projects, AI research, and full-stack development**  
