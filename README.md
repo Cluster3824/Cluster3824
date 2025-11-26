@@ -10,7 +10,7 @@ I am a third-year B.Tech student specializing in **Artificial Intelligence and D
 
 * 🌍  Based in **Coimbatore Tamil Nadu**  
 * ✉️  Reach me at [rohith3824r1@gmail.com](mailto:rohith3824r1@gmail.com)  
-* 🧠  Currently learning **Machine Learning, Neural Networks, and Large Language Models (LLMs)**  
+* 🧠  Currently learning **AI Agent , Full stack Development and Linux Environment**  
 * 🤝  Open to collaborating on **LLM agent projects, AI research, and full-stack development**  
 * ⚡  Fun fact: *I’m Arthur Morgan, and I help folks ‘cause that’s what good partners do.*
 * 🌐 Portfolio: https://rohith-r-portfolio.vercel.app/
