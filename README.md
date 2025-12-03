@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/SpP0QG7.gif" width="700"/>
+  <img src="https://i.imgur.com/ICa9VQf.gif" width="700"/>
 </p>
+
 
 <h1 align="center">Hi there, I'm Rohith R. 👋</h1>
 
