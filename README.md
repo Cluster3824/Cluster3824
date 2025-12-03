@@ -1,8 +1,7 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (WORKING GIF) -->
 <p align="center">
-  <img src="https://i.imgur.com/ICa9VQf.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/ashutosh1919/portfolio/master/assets/header.gif" width="800"/>
 </p>
-
 
 <h1 align="center">Hi there, I'm Rohith R. 👋</h1>
 
@@ -19,20 +18,19 @@ With a strong technical foundation and hands-on experience across AI, web techno
 
 ## 🚀 About Me  
 
-- 🌍 Based in **Coimbatore, Tamil Nadu**  
-- ✉️ Reach me at: **rohith3824r1@gmail.com**  
-- 🧠 Currently Learning: **AI Agents, Full-Stack Development, Linux Admin**  
-- 🤝 Open to: **LLM Agent Projects, AI Research, ML Systems, Web Apps**  
-- ⚡ Fun Fact: *“I’m Arthur Morgan — and I help folks ’cause that’s what good partners do.”*  
-- 🌐 Portfolio: https://rohith-r-portfolio.vercel.app/  
-- 🐧 *I use Arch btw*  
+- 🌍 Based in **Coimbatore, Tamil Nadu**
+- ✉️ Reach me at **rohith3824r1@gmail.com**
+- 🧠 Currently learning: **AI Agents, Full-Stack Development, Linux Admin**
+- 🤝 Open to: **LLM Agent Projects, AI Research, ML Systems, Web Apps**
+- ⚡ Fun Fact: *“I’m Arthur Morgan — and I help folks ’cause that’s what good partners do.”*
+- 🌐 Portfolio: **https://rohith-r-portfolio.vercel.app/**
+- 🐧 *I use Arch btw*
 
 ---
 
 ## 👨‍💻 Developer Vibes  
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="450">
+  <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/master/Coding/coding-freak.gif" width="450"/>
 </p>
 
 ---
@@ -49,10 +47,10 @@ React.js, Node.js, HTML5, CSS
 MySQL, RESTful APIs  
 
 ### **AI & Machine Learning:**  
-PyTorch, TensorFlow, ML Algorithms  
+PyTorch, TensorFlow, Machine Learning Algorithms  
 
 ### **Operating Systems:**  
-Linux (Arch, Ubuntu), System Administration, Shell Scripting  
+Linux (Arch & Ubuntu), System Administration, Shell Scripting  
 
 ### **LLM Agent Development:**  
 Hugging Face, Unsloth, Model API Handling, Ollama, Gradio, LangChain, LangGraph, Google ADK  
@@ -74,9 +72,9 @@ C++, Unreal Engine, Unity, SFML
 ## 🏆 Projects  
 
 - **Arch Logs** – Advanced system log analyzer for Arch Linux (CLI + GUI)  
-- **HSN Code LLM Agent** – AI-powered HSN validation using **Google ADK, Ollama (LLaMA 3.2), LiteLLM, Pandas**  
+- **HSN Code LLM Agent** – HSN validation using **Google ADK, Ollama (LLaMA 3.2), LiteLLM, Pandas**  
 - **Book Review & Rating Website** – Full-stack (React + Spring Boot)  
-- **Water-Borne Disease Prediction** – Predicts water safety using ML models  
+- **Water-Borne Disease Prediction** – ML model to predict water safety  
 
 ---
 
@@ -105,10 +103,10 @@ C++, Unreal Engine, Unity, SFML
 
 ---
 
-## 🏅 GitHub Achievements  
+## 🐍 3D GitHub Contribution Snake  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cluster3824&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://raw.githubusercontent.com/Cluster3824/Cluster3824/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
