@@ -1,132 +1,133 @@
-<!-- Auto Theme Switch -->
-<!-- Light Mode Banner -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rohith.R;LLM+Agent+Developer;AI+%26+Data+Science+Student;Full-Stack+Developer;Arch+Linux+User" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rohith.R;LLM+Agent+Developer;AI+%26+Data+Science+Student;Full-Stack+Developer;Arch+Linux+User" />
-  </picture>
+  <img src="https://i.imgur.com/SpP0QG7.gif" width="700"/>
+</p>
+
+<h1 align="center">Hi there, I'm Rohith R. 👋</h1>
+
+<p align="center">
+  <em>Machine Learning • LLM Agent Developer • Web Developer</em>
 </p>
 
 ---
 
-<!-- 3D Developer GIF -->
+🌟 I'm a third-year **B.Tech AI & Data Science** student passionate about **LLM Agents, Machine Learning, System Development, and Full-Stack Engineering**.  
+With a strong technical foundation and hands-on experience across AI, web technologies, and Linux systems, I continually explore ways to build real-world impactful solutions.
+
+---
+
+## 🚀 About Me  
+
+- 🌍 Based in **Coimbatore, Tamil Nadu**  
+- ✉️ Reach me at: **rohith3824r1@gmail.com**  
+- 🧠 Currently Learning: **AI Agents, Full-Stack Development, Linux Admin**  
+- 🤝 Open to: **LLM Agent Projects, AI Research, ML Systems, Web Apps**  
+- ⚡ Fun Fact: *“I’m Arthur Morgan — and I help folks ’cause that’s what good partners do.”*  
+- 🌐 Portfolio: https://rohith-r-portfolio.vercel.app/  
+- 🐧 *I use Arch btw*  
+
+---
+
+## 👨‍💻 Developer Vibes  
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="480px"/>
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="450">
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🛠️ Skills  
 
-I am a **third-year B.Tech AI & DS student**, passionate about  
-**Machine Learning, LLM Agents, and Full-Stack Development** —  
-blending creativity with system-level engineering.
+### **Programming Languages:**  
+C, C++, Python, Java, JavaScript  
 
-🎯 I focus on:  
-- LLM Agents (LangChain, LangGraph, ADK, Ollama)  
-- AI/ML Model Development  
-- React + Node Full Stack  
-- Linux (Arch & Ubuntu) Administration  
+### **Web Development:**  
+React.js, Node.js, HTML5, CSS  
 
-📍 **Coimbatore, Tamil Nadu**  
-📧 **rohith3824r1@gmail.com**  
-🌐 **Portfolio:** https://rohith-r-portfolio.vercel.app/  
-🐧 Yes… **I use Arch btw** 😎  
+### **Database & APIs:**  
+MySQL, RESTful APIs  
 
----
+### **AI & Machine Learning:**  
+PyTorch, TensorFlow, ML Algorithms  
 
-# 🛠️ Skills
+### **Operating Systems:**  
+Linux (Arch, Ubuntu), System Administration, Shell Scripting  
+
+### **LLM Agent Development:**  
+Hugging Face, Unsloth, Model API Handling, Ollama, Gradio, LangChain, LangGraph, Google ADK  
+
+### **Cloud Technologies:**  
+Azure, AWS, Google Cloud  
+
+### **Game Development (Basic):**  
+C++, Unreal Engine, Unity, SFML  
+
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,html,css,tailwind,mysql,pytorch,tensorflow,linux,bash,docker,git,github,aws,azure,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,mysql,html,css,pytorch,tensorflow,linux,docker,git" />
 </p>
 
 ---
 
-# 📌 Pinned Projects (Showcase)
+## 🏆 Projects  
+
+- **Arch Logs** – Advanced system log analyzer for Arch Linux (CLI + GUI)  
+- **HSN Code LLM Agent** – AI-powered HSN validation using **Google ADK, Ollama (LLaMA 3.2), LiteLLM, Pandas**  
+- **Book Review & Rating Website** – Full-stack (React + Spring Boot)  
+- **Water-Borne Disease Prediction** – Predicts water safety using ML models  
+
+---
+
+## 🌍 Socials  
 
 <p align="center">
-  <!-- HSN Code Agent -->
-  <a href="https://github.com/Cluster3824/HSN-Code-LLM-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cluster3824&repo=HSN-Code-LLM-Agent&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <!-- Arch Logs -->
-  <a href="https://github.com/Cluster3824/Arch-Logs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cluster3824&repo=Arch-Logs&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Book Review Website -->
-  <a href="https://github.com/Cluster3824/Book-Review-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cluster3824&repo=Book-Review-System&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <!-- Disease Prediction -->
-  <a href="https://github.com/Cluster3824/Water-Disease-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cluster3824&repo=Water-Disease-Prediction&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://www.github.com/Cluster3824" target="_blank"><img src="https://img.shields.io/badge/GitHub-Cluster3824-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/rohith-r-795383297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rohith.R-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
-# 🌍 Socials  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/Cluster3824" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Cluster3824-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohith-r-795383297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohith.R-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cluster3824&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🏅 GitHub Achievements  
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Cluster3824&theme=tokyo-night&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Cluster3824&theme=graywhite&hide_border=true"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&layout=compact&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&layout=compact&theme=buefy&hide_border=true"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&theme=graywhite&hide_border=true"
-    />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Cluster3824&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-# 🎉 Closing Animation  
+## 🎞️ Developer Aesthetic  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00E6FF&center=true&vCenter=true&width=600&lines=Keep+Learning+🚀;Keep+Building+🛠️;Keep+Improving+🔥;The+Journey+Never+Stops..." />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
 
 ---
+
+## 🎉 Fun Animation  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891b2&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;LLM+Agent+Developer;Always+Learning+%26+Building" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thank you for visiting! Have a great day 😄</em>
+</p>
