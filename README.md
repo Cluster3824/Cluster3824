@@ -1,130 +1,98 @@
-<!-- HEADER BANNER -->
+# Hi, I'm Rohith R 👋
 
-<h1 align="center">Hi there, I'm Rohith R. 👋</h1>
+### Machine Learning Engineer | LLM Agent Developer | Full-Stack Engineer
+
+I'm a **third-year B.Tech AI & Data Science student** passionate about building  
+**LLM-powered systems, ML-driven applications, and scalable web platforms**.
+
+I enjoy working at the intersection of **AI, systems, and software engineering** — turning ideas into reliable, real-world solutions.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech AI & Data Science (3rd Year)
+- 📍 Coimbatore, Tamil Nadu, India
+- 🧠 Focus Areas: **LLM Agents, ML Systems, Full-Stack Engineering**
+- 🐧 Linux Enthusiast (*I use Arch btw*)
+- 📫 Email: **rohith3824r1@gmail.com**
+- 🌐 Portfolio: **https://rohith-r-portfolio.vercel.app**
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+**C, C++, Python, Java, JavaScript**
+
+### Web & Backend
+**React.js, Node.js, Spring Boot, REST APIs, HTML, CSS**
+
+### AI & Machine Learning
+**PyTorch, TensorFlow, ML Algorithms, Model Evaluation**
+
+### LLM & Agent Frameworks
+**LangChain, LangGraph, Ollama, Hugging Face, Unsloth, Google ADK, Gradio**
+
+### Databases & Systems
+**MySQL, Linux (Arch, Ubuntu), Shell Scripting**
+
+### Cloud & DevOps
+**AWS, Azure, Google Cloud, Docker, Git**
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 HSN Code Validation LLM Agent
+> AI-powered system for validating and suggesting HSN codes  
+**Tech:** Google ADK, Ollama (LLaMA 3.2), LiteLLM, Pandas
+
+### 🔹 Arch Logs
+> Advanced system log analyzer for Arch Linux (CLI + GUI)
+
+### 🔹 Book Review & Rating Platform
+> Full-stack web application  
+**Tech:** React.js, Spring Boot, MySQL
+
+### 🔹 Water-Borne Disease Prediction
+> ML-based water safety prediction system
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <em>Machine Learning • LLM Agent Developer • Web Developer</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
-🌟 I'm a third-year **B.Tech AI & Data Science** student passionate about **LLM Agents, Machine Learning, System Development, and Full-Stack Engineering**.  
-With a strong technical foundation and hands-on experience across AI, web technologies, and Linux systems, I continually explore ways to build real-world impactful solutions.
-
----
-
-## 🚀 About Me  
-
-- 🌍 Based in **Coimbatore, Tamil Nadu**  
-- ✉️ Reach me at: **rohith3824r1@gmail.com**  
-- 🧠 Currently Learning: **AI Agents, Full-Stack Development, Linux Admin**  
-- 🤝 Open to: **LLM Agent Projects, AI Research, ML Systems, Web Apps**  
-- ⚡ Fun Fact: *“I’m Arthur Morgan — and I help folks ’cause that’s what good partners do.”*  
-- 🌐 Portfolio: https://rohith-r-portfolio.vercel.app/  
-- 🐧 *I use Arch btw*  
-
----
-
-## 👨‍💻 Developer Vibes  
+## 🏆 GitHub Achievements (Fixed)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="450">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cluster3824&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🛠️ Skills  
-
-### **Programming Languages:**  
-C, C++, Python, Java, JavaScript  
-
-### **Web Development:**  
-React.js, Node.js, HTML5, CSS  
-
-### **Database & APIs:**  
-MySQL, RESTful APIs  
-
-### **AI & Machine Learning:**  
-PyTorch, TensorFlow, ML Algorithms  
-
-### **Operating Systems:**  
-Linux (Arch, Ubuntu), System Administration, Shell Scripting  
-
-### **LLM Agent Development:**  
-Hugging Face, Unsloth, Model API Handling, Ollama, Gradio, LangChain, LangGraph, Google ADK  
-
-### **Cloud Technologies:**  
-Azure, AWS, Google Cloud  
-
-### **Game Development (Basic):**  
-C++, Unreal Engine, Unity, SFML  
-
-<br>
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,mysql,html,css,pytorch,tensorflow,linux,docker,git" />
-</p>
-
----
-
-## 🏆 Projects  
-
-- **Arch Logs** – Advanced system log analyzer for Arch Linux (CLI + GUI)  
-- **HSN Code LLM Agent** – AI-powered HSN validation using **Google ADK, Ollama (LLaMA 3.2), LiteLLM, Pandas**  
-- **Book Review & Rating Website** – Full-stack (React + Spring Boot)  
-- **Water-Borne Disease Prediction** – Predicts water safety using ML models  
-
----
-
-## 🌍 Socials  
-
-<p align="center">
-<a href="https://www.github.com/Cluster3824" target="_blank"><img src="https://img.shields.io/badge/GitHub-Cluster3824-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/rohith-r-795383297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rohith.R-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cluster3824&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cluster3824&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 🎞️ Developer Aesthetic  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
-</p>
-
----
-
-## 🎉 Fun Animation  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891b2&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;LLM+Agent+Developer;Always+Learning+%26+Building" />
+  <a href="https://github.com/Cluster3824">
+    <img src="https://img.shields.io/badge/GitHub-Cluster3824-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohith-r-795383297/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20R-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Thank you for visiting! Have a great day 😄</em>
+  <em>Focused on learning, building, and shipping impactful AI systems.</em>
 </p>
