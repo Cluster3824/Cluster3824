@@ -91,21 +91,8 @@ C++, Unreal Engine, Unity, SFML
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cluster3824&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cluster3824&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cluster3824&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
 
 ---
-
-## 🏅 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cluster3824&theme=tokyonight&no-frame=true&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
 
 ## 🎞️ Developer Aesthetic  
