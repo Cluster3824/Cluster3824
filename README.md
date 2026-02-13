@@ -21,7 +21,8 @@ With a strong technical foundation and hands-on experience across AI, web techno
 - 🤝 Open to: **LLM Agent Projects, AI Research, ML Systems, Web Apps**  
 - ⚡ Fun Fact: *“I’m Arthur Morgan — and I help folks ’cause that’s what good partners do.”*  
 - 🌐 Portfolio: https://rohith-r-portfolio.vercel.app/  
-- 🐧 *I use Arch btw*  
+- 🐧 *I use Arch btw*
+- Vibe Coder
 
 ---
 
